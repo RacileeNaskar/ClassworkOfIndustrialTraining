@@ -1,0 +1,20 @@
+.homework1{
+    background-color: purple;
+    color: white;
+    position: relative;
+    top: 60px;
+    
+}
+
+
+
+.homework2 {
+    background-color: teal;
+    border-radius: 10px;
+    padding: 4px;
+    height: 45px;
+    width: 500px;
+    margin-right: 10px;
+    color: white;
+    font-size: 1rem;
+}
